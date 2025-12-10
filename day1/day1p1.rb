@@ -1,5 +1,5 @@
 
-
+#TODO - $ will make it VERY global, change to @
 $position = 50
 $pw = 0
 lines = File.readlines("input.txt")
